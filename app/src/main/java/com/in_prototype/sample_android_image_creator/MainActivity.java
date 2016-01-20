@@ -92,6 +92,8 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
+    //======== Init Activity
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -193,17 +195,6 @@ public class MainActivity extends ActionBarActivity {
 
 
 
-
-    /*
-    @Override
-    public void onConfigurationChanged(Configuration newConfig) {
-        super.onConfigurationChanged(newConfig);
-        if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
-            //Show landscape picture
-        }
-    }
-    */
-////======
 
 
 }

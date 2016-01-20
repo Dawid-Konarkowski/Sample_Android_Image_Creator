@@ -111,7 +111,6 @@ public class MoveView extends FrameLayout {
 
     void init(Context context) {
         context_ = context;
-        //showImage = BitmapFactory.decodeResource(context.getResources(),R.drawable.image);
 
         LayoutParams lp = new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT);
 
@@ -212,13 +211,6 @@ public class MoveView extends FrameLayout {
         move_menu_cut.addView(move_cut_yes);
 
 
-        //float size;
-
-        //move_cut = findViewById(R.id.move_cut);
-        //move_trash = findViewById(R.id.move_trash);
-        //move_center = findViewById(R.id.move_center);
-        //move_rotate = findViewById(R.id.move_rotate);
-        //move_size = findViewById(R.id.move_size);
 
         setOnClickListener(click);
 
