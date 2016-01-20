@@ -29,6 +29,7 @@ public class MainActivity extends ActionBarActivity {
     FrameLayout main_work;
     LinearLayout main_layers;
 
+
     void openGallery() {
         Intent i = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
         startActivityForResult(i, RESULT_LOAD_IMAGE);

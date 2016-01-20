@@ -18,6 +18,7 @@ import java.util.Date;
  */
 
 public class ImageUnit {
+
     static public Bitmap getBitmapFile(String path, int type) {
 
         if (path != null && path.length() > 3) {

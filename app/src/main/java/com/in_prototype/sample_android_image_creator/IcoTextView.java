@@ -29,6 +29,7 @@ import java.util.WeakHashMap;
  */
 
 public class IcoTextView extends TextView {
+
     private ArrayList<Shadow> outerShadows;
     private ArrayList<Shadow> innerShadows;
 

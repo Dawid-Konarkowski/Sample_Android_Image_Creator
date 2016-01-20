@@ -19,7 +19,6 @@ import android.widget.ImageView;
 
 public class MoveView extends FrameLayout {
 
-
     boolean isMenu = true;
     boolean isMenuCut = false;
     MainActivity activity;
