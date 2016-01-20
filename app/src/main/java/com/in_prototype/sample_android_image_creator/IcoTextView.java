@@ -24,6 +24,10 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.WeakHashMap;
 
+/**
+ * Created by Dawid Konarkowski on 20.01.2016.
+ */
+
 public class IcoTextView extends TextView {
     private ArrayList<Shadow> outerShadows;
     private ArrayList<Shadow> innerShadows;

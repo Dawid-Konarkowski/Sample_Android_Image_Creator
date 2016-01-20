@@ -14,8 +14,9 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 
 /**
- * Created by Dawid Konarkowski on 15.12.2015.
+ * Created by Dawid Konarkowski on 20.01.2016.
  */
+
 public class MoveView extends FrameLayout {
 
 

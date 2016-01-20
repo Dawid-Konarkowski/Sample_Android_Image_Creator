@@ -17,6 +17,9 @@ import android.widget.LinearLayout;
 
 import java.util.ArrayList;
 
+/**
+ * Created by Dawid Konarkowski on 20.01.2016.
+ */
 
 public class MainActivity extends ActionBarActivity {
 
