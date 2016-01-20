@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Android Image Creator</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="save">Save</string>
+    <string name="ok_save">Image is save</string>
+    <string name="error_save">Error, Image is not save</string>
+</resources>
